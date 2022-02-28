@@ -1,1 +1,1 @@
-This project implements a 3D LIDAR based room scanner. The hardware implementation is programmed in C language, the visualization of the scanning result is achieved by Python. The hardware utilizes MSP432E401Y microcontroller and the VL53L1X ToF sensor.
+This project implements a 3D LIDAR based room scanner. The hardware implementation is programmed in C language, the program for scanning result visualization is written in Python. The hardware utilizes MSP432E401Y microcontroller and the VL53L1X ToF sensor.
