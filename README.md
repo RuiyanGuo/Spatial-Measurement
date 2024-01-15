@@ -1,1 +1,1 @@
-My code for Mcmaster University's COMPENG 2DX4: 'Microprocessor Systems Project' course, taken in Winter 2021
+Developed a 3D LIDAR-based room scanner prototype by programming ARM microcontrollers in C, alongside designing Python software for spatial data processing and visualization, ensuring precision and accuracy in spatial measurements.
